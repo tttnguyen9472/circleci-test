@@ -16,6 +16,6 @@ public void init(){
 }
   @Test
   public void sumTest() {
-    Assert.assertEquals(6, SomeFunction.sum(2, 4));
+    Assert.assertEquals(6, someFunction.sum(2, 4));
   }
 }
